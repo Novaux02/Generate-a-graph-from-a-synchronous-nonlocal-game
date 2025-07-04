@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: Generate a Graph from a Synchronous Nonlocal Game
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Aljoscha
+    family-names: Melssen
+abstract: >
+  This automated Python program generates a graph from a synchronous nonlocal game.
+
+  This repository contains an automated implementation of a construction from:
+
+  Samuel J. Harris, *Universality of Graph Homomorphism Games and the Quantum Coloring Problem*,
+
+  [arXiv:2305.18116v2](https://arxiv.org/abs/2305.18116v2).
+repository-code: https://github.com/your-username/your-repo-name
+version: "1.0.0"
+date-released: 2025-07-04
+
+references:
+  - type: article
+    authors:
+      - family-names: Harris
+        given-names: Samuel J.
+    title: Universality of Graph Homomorphism Games and the Quantum Coloring Problem
+    archive: arXiv
+    archive-id: 2305.18116v2
+    url: https://arxiv.org/abs/2305.18116v2
+    date: 2023
